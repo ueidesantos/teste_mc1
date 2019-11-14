@@ -3,7 +3,7 @@
 1. Crie um fork desse repositório, faça os testes, responda as perguntas e depois submeta um pull request.
 2. Os testes envolvendo código devem ser feitos em **C#, Java ou Swift**. Cada codificação deve estar em uma pasta com o nome que está entre perênteses nas questões. As questões teóricas devem ser respondidas em um **pdf** que também será adicionado ao GIT.
 3. Como você se atualiza tecnicamente?
-4. Crie uma função para calcular o _n-ésimo_ elemento da Sequência de Fibonacci.
+4. Crie uma função para calcular o _n-ésimo_ elemento da Sequência de Fibonacci (fibonacci).
 	1. Qual solução é mais performática, iterativa ou recursiva? Por que?
 	2. _Opcional:_ Qual é o 5287º elemento da sequência?
 5. O que significa SOLID?
@@ -19,7 +19,7 @@
 	2. _Opcional:_ Cite pelo menos 2 vantagens e 2 desvantagens de seu uso.
 10. O que são microsserviços?
  	1. Quais são suas vantagens e desvantagens?
-11. Com a seguinte representação de produto:
+11. Com a seguinte representação de produto (crud):
 ```
 {
     "sku": 43264,
@@ -57,3 +57,7 @@ Requisitos:
 - Dois produtos são considerados iguais se os seus skus forem iguais
 - Ao atualizar um produto, o antigo deve ser sobrescrito com o que esta sendo enviado na requisição
 - A requisição deve receber o sku e atualizar com o produto que tbm esta vindo na requisição
+
+Não é necessário o uso de bancos de dados.
+Testes são bem vindos.
+Você não deve levar mais do que 4 horas para o teste todo.
