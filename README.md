@@ -58,6 +58,6 @@ Requisitos:
 - Ao atualizar um produto, o antigo deve ser sobrescrito com o que esta sendo enviado na requisição
 - A requisição deve receber o sku e atualizar com o produto que tbm esta vindo na requisição
 
-Não é necessário o uso de bancos de dados.
-Testes são bem vindos.
-Você não deve levar mais do que 4 horas para o teste todo.
+### Não é necessário o uso de bancos de dados. ###
+### Testes são bem vindos. ###
+### Você não deve levar mais do que 4 horas para o teste todo. ###
