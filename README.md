@@ -1,7 +1,7 @@
 # Teste - Desenvolvimento de Software #
 
 1. Crie um fork desse repositório, faça os testes, responda as perguntas e depois submeta um pull request.
-2. Os testes envolvendo código devem ser feitos em **C#, Java ou Swift**. Cada codificação deve estar em uma pasta com o nome que está entre perênteses nas questões. As questões teóricas devem ser respondidas em um **pdf** que também será adicionado ao GIT.
+2. Os testes envolvendo código devem ser feitos em **C# ou Java/Kotlin (Android)**. Cada codificação deve estar em uma pasta com o nome que está entre perênteses nas questões. As questões teóricas devem ser respondidas em um **pdf** que também será adicionado ao GIT. O primeiro teste será pegar os códigos e dar um run. Tem que rodar de primeira.
 3. Como você se atualiza tecnicamente?
 4. Crie uma função para calcular o _n-ésimo_ elemento da Sequência de Fibonacci (fibonacci).
 	1. Qual solução é mais performática, iterativa ou recursiva? Por que?
