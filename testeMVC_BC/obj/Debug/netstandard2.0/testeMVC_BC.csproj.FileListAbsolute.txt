@@ -1,0 +1,13 @@
+C:\Users\hacker\source\repos\testeMVC_BC\bin\Debug\netstandard2.0\testeMVC_BC.deps.json
+C:\Users\hacker\source\repos\testeMVC_BC\bin\Debug\netstandard2.0\testeMVC_BC.dll
+C:\Users\hacker\source\repos\testeMVC_BC\bin\Debug\netstandard2.0\testeMVC_BC.pdb
+C:\Users\hacker\source\repos\testeMVC_BC\obj\Debug\netstandard2.0\testeMVC_BC.AssemblyInfoInputs.cache
+C:\Users\hacker\source\repos\testeMVC_BC\obj\Debug\netstandard2.0\testeMVC_BC.AssemblyInfo.cs
+C:\Users\hacker\source\repos\testeMVC_BC\obj\Debug\netstandard2.0\testeMVC_BC.dll
+C:\Users\hacker\source\repos\testeMVC_BC\obj\Debug\netstandard2.0\testeMVC_BC.pdb
+C:\Users\hacker\source\repos\testeMVC_BC\obj\Debug\netstandard2.0\testeMVC_BC.csprojAssemblyReference.cache
+C:\Users\hacker\source\repos\testeMVC_BC\bin\Debug\netstandard2.0\testeMVC_BEC.dll
+C:\Users\hacker\source\repos\testeMVC_BC\bin\Debug\netstandard2.0\testeMVC_SI.dll
+C:\Users\hacker\source\repos\testeMVC_BC\bin\Debug\netstandard2.0\testeMVC_BEC.pdb
+C:\Users\hacker\source\repos\testeMVC_BC\bin\Debug\netstandard2.0\testeMVC_SI.pdb
+C:\Users\hacker\source\repos\testeMVC_BC\obj\Debug\netstandard2.0\testeMVC_BC.csproj.CopyComplete

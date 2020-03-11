@@ -1,0 +1,8 @@
+C:\Users\hacker\source\repos\testeMVC_SI\bin\Debug\netstandard2.0\testeMVC_SI.deps.json
+C:\Users\hacker\source\repos\testeMVC_SI\bin\Debug\netstandard2.0\testeMVC_SI.dll
+C:\Users\hacker\source\repos\testeMVC_SI\bin\Debug\netstandard2.0\testeMVC_SI.pdb
+C:\Users\hacker\source\repos\testeMVC_SI\obj\Debug\netstandard2.0\testeMVC_SI.csprojAssemblyReference.cache
+C:\Users\hacker\source\repos\testeMVC_SI\obj\Debug\netstandard2.0\testeMVC_SI.AssemblyInfoInputs.cache
+C:\Users\hacker\source\repos\testeMVC_SI\obj\Debug\netstandard2.0\testeMVC_SI.AssemblyInfo.cs
+C:\Users\hacker\source\repos\testeMVC_SI\obj\Debug\netstandard2.0\testeMVC_SI.dll
+C:\Users\hacker\source\repos\testeMVC_SI\obj\Debug\netstandard2.0\testeMVC_SI.pdb

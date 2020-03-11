@@ -1,0 +1,8 @@
+C:\Users\hacker\source\repos\testeMVC_BEC\bin\Debug\netstandard2.0\testeMVC_BEC.deps.json
+C:\Users\hacker\source\repos\testeMVC_BEC\bin\Debug\netstandard2.0\testeMVC_BEC.dll
+C:\Users\hacker\source\repos\testeMVC_BEC\bin\Debug\netstandard2.0\testeMVC_BEC.pdb
+C:\Users\hacker\source\repos\testeMVC_BEC\obj\Debug\netstandard2.0\testeMVC_BEC.AssemblyInfoInputs.cache
+C:\Users\hacker\source\repos\testeMVC_BEC\obj\Debug\netstandard2.0\testeMVC_BEC.AssemblyInfo.cs
+C:\Users\hacker\source\repos\testeMVC_BEC\obj\Debug\netstandard2.0\testeMVC_BEC.dll
+C:\Users\hacker\source\repos\testeMVC_BEC\obj\Debug\netstandard2.0\testeMVC_BEC.pdb
+C:\Users\hacker\source\repos\testeMVC_BEC\obj\Debug\netstandard2.0\testeMVC_BEC.csprojAssemblyReference.cache

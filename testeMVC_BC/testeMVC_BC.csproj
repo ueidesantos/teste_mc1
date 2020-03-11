@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\testeMVC_BEC\testeMVC_BEC.csproj" />
+    <ProjectReference Include="..\testeMVC_SI\testeMVC_SI.csproj" />
+  </ItemGroup>
+
+</Project>
